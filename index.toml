@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "d9acf1f491728ab72154820ca790a3b92764cb68590c5143abe2bbb7aa8f8455"
+metafile = true
+
+[[files]]
+file = "mods/pixelmon.pw.toml"
+hash = "0e91cfb9af96c979c424cdeba8c9487e4d82af768a40362074698bf5449fc253"
+metafile = true
+
+[[files]]
+file = "mods/the-warp-mod.pw.toml"
+hash = "befbd90db95df92e7af6eb545b1137bc954c0ce26aef345fa402ac7d87922f16"
+metafile = true

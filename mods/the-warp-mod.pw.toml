@@ -1,0 +1,13 @@
+name = "The Warp Mod - Forge"
+filename = "warpmod-1.16.5-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ccb97780cc3d7c4b95e0538ab7ff4b9b1d1877fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3243787
+project-id = 319723

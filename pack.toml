@@ -1,0 +1,13 @@
+name = "Los Pixelmon"
+author = "loswastaken"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ddfcfc30cfd4c9ccd189f66c73be490e7ddf68ccad0a1da8a680d193fb87c735"
+
+[versions]
+forge = "36.2.34"
+minecraft = "1.16.5"
